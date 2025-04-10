@@ -1,0 +1,16 @@
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Office
+~$*
+
+# Archivos generados automáticamente (por si usás herramientas luego)
+*.log
+*.tmp
+
+# Carpeta de evidencias si querés excluir capturas
+# documentacion/evidencias/
+
+# Archivos de entorno (si en algún momento usás uno)
+.env
