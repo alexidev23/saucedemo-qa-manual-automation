@@ -8,9 +8,7 @@ Thumbs.db
 # Archivos generados automáticamente (por si usás herramientas luego)
 *.log
 *.tmp
-
-# Carpeta de evidencias si querés excluir capturas
-# documentacion/evidencias/
+node_modules
 
 # Archivos de entorno (si en algún momento usás uno)
 .env
