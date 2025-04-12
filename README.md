@@ -42,11 +42,31 @@ Verificar el comportamiento funcional de la aplicación [SauceDemo](https://www.
 - [Cypress](https://www.cypress.io/) (JavaScript)
 
 ### Endpoints/funcionalidades automatizadas:
-- Login válido e inválido.
-- Agregar productos al carrito.
-- Remover productos.
-- Verificación de filtros de productos.
-- Navegación entre secciones.
+[✅] Login válido e inválido.
+
+   ## Evidencias:
+      
+   - Login valido
+
+      🎥 [Login test valido](./documentacion/evidencias/test_login_200.mp4)
+
+   - Login invalido con usuario
+
+      🎥 [Login test invalido](./documentacion/evidencias/test_login_invalido_usuario.mp4)
+
+   - Login invalido con password
+      
+      🎥 [Login test invalido](./documentacion/evidencias/test_login_invalido_password.mp4)
+
+   - Login invalido con usuario y password
+
+      🎥 [Login test invalido](./documentacion/evidencias/test_login_invalido_usuario_password.mp4)
+
+[✅] Agregar productos y remover productos al carrito.
+
+[✅] Verificación de filtros de productos.
+
+[✅] Navegación entre secciones.
 
 ### Cómo ejecutar los tests:
 1. Cloná el repo:
