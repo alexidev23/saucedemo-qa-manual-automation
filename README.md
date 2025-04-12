@@ -44,24 +44,6 @@ Verificar el comportamiento funcional de la aplicación [SauceDemo](https://www.
 ### Endpoints/funcionalidades automatizadas:
 [✅] Login válido e inválido.
 
-   ## Evidencias:
-      
-   - Login valido
-
-      🎥 [Login test valido](./documentacion/evidencias/test_login_200.mp4)
-
-   - Login invalido con usuario
-
-      🎥 [Login test invalido](./documentacion/evidencias/test_login_invalido_usuario.mp4)
-
-   - Login invalido con password
-      
-      🎥 [Login test invalido](./documentacion/evidencias/test_login_invalido_password.mp4)
-
-   - Login invalido con usuario y password
-
-      🎥 [Login test invalido](./documentacion/evidencias/test_login_invalido_usuario_password.mp4)
-
 [✅] Agregar productos y remover productos al carrito.
 
 [✅] Verificación de filtros de productos.
@@ -98,8 +80,17 @@ Verificar el comportamiento funcional de la aplicación [SauceDemo](https://www.
 
 ## 📸 Evidencia
 
-Podés encontrar capturas de pantalla en `documentacion/evidencias/`. También podés grabar gifs o videos de ejecución y agregarlos acá.
+   - 🎥 [Login test valido](./documentacion/evidencias/test_login_200.mp4)
 
+   - 🎥 [Login invalido usuario](./documentacion/evidencias/test_login_invalido_usuario.mp4)
+
+   - 🎥 [Login invalido contraseña](./documentacion/evidencias/test_login_invalido_password.mp4)
+
+   - 🎥 [Login invalido usuario y contraseña](./documentacion/evidencias/test_login_invalido_usuario_password.mp4)
+
+   - 🎥 [Agregar productos del carrito](./documentacion/evidencias/test_agregar_productos.mp4)
+
+   - 🎥 [Quitar productos del carrito](./documentacion/evidencias/test_quitar_productos.mp4)      
 ---
 
 ## 🧠 Aprendizajes
