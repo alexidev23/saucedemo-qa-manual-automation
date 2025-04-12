@@ -90,7 +90,9 @@ Verificar el comportamiento funcional de la aplicación [SauceDemo](https://www.
 
    - 🎥 [Agregar productos del carrito](./documentacion/evidencias/test_agregar_productos.mp4)
 
-   - 🎥 [Quitar productos del carrito](./documentacion/evidencias/test_quitar_productos.mp4)      
+   - 🎥 [Quitar productos del carrito](./documentacion/evidencias/test_quitar_productos.mp4)   
+
+   - 🎥 [Probando los distintos tipos de filtros](./documentacion/evidencias/test_quitar_productos.mp4)     
 ---
 
 ## 🧠 Aprendizajes
