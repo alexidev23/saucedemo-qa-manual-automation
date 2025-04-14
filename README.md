@@ -107,5 +107,5 @@ Verificar el comportamiento funcional de la aplicación [SauceDemo](https://www.
 
 ## 💬 Autor
 
-**Alexis Escobar** – QA Manual & Automation Jr.  
+**Alexis Escobar** – Front End - QA Manual & Automation Jr.  
 [LinkedIn](https://www.linkedin.com/in/alexis-escobar-95b491184/) | [Portafolio](https://portafolio-alexisdev.vercel.app/)
